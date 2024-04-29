@@ -7,7 +7,6 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=B97DC4&random=false&width=435&lines=Hello%2C+world!;Me+chamo+Al%C3%ADcia;Sou+aspirante+em+dados;Estagiando+no+Ita%C3%BA;Crescendo+no+mundo;da+Programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aliczxs&theme=dark&hide_border=true&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D&border=B97DC4&stroke=B97DC4&ring=B97DC4&fire=57325E&currStreakNum=EF96FF&sideNums=874E92&currStreakLabel=B97DC4&sideLabels=8A5D92&dates=EBEBEB)](https://git.io/streak-stats)
